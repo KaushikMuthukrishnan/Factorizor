@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Factorizor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Factorizor_jar</output-path>
+    <root id="archive" name="Factorizor.jar">
+      <element id="module-output" name="Factorizor" />
+    </root>
+  </artifact>
+</component>
